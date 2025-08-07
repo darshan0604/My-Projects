@@ -26,7 +26,7 @@ Automates bulk Tally entries by reading Excel data and using GUI automation. Red
 ---
 
 ## ✅ Task Management System (TMS)  
-**[tms.efficserv.com](https://tms.efficserv.com)**  
+**[tms.efficserv.com](https://tms.efficserv.com/login.php)**  
 Internal tool for managing tasks with client dashboards, group chat, and email reminders.  
 🛠 Tech Stack: PHP, MySQL, Bootstrap, AJAX, HTML, CSS, JS
 
@@ -40,7 +40,7 @@ Land survey services and civil product sales platform. Live and actively used fo
 ---
 
 ## 🧑‍⚕️ Patient Management System  
-**[punarahatphysiotherapy.in](https://punarahatphysiotherapy.in/login.php)**  
+**[punarahatphysiotherapy.in](https://punarahatphysiotherapy.in)**  
 Built for a physiotherapy clinic to manage appointments, records, and diagnoses. In use for 1+ year.  
 🛠 Tech Stack: PHP, MySQL, Bootstrap, AJAX, HTML, CSS, JS
 
