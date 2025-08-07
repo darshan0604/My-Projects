@@ -40,7 +40,7 @@ Land survey services and civil product sales platform. Live and actively used fo
 ---
 
 ## 🧑‍⚕️ Patient Management System  
-**[punarahatphysiotherapy.in](https://punarahatphysiotherapy.in)**  
+**[punarahatphysiotherapy.in](https://punarahatphysiotherapy.in/login.php)**  
 Built for a physiotherapy clinic to manage appointments, records, and diagnoses. In use for 1+ year.  
 🛠 Tech Stack: PHP, MySQL, Bootstrap, AJAX, HTML, CSS, JS
 
