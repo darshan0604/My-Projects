@@ -56,6 +56,6 @@ Delivered automation scripts to clients for:
 ---
 
 ## 🧠 Want to Connect?
-If you're interested in collaborating or want more details about any project, feel free to [connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) or raise an issue in this repo.
+If you're interested in collaborating or want more details about any project, feel free to [connect on LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/darshan-soni-328715273/)) or raise an issue in this repo.
 
 ---
